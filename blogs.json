@@ -1,25 +1,25 @@
 [
     {
       "id": 1,
-      "title": "Cal.com: From Schoolyard Plans to College Networking",
+      "title": "How Custom Web Design Drives Business Success",
       "author": "Ashraf",
-      "date": "2024-09-01",
-      "image": "assets/img/10d4766279c02579a966a64d5637621d06b45a8e-860x460_Z8iNia.webp",
-      "excerpt": "Utilize Personalized Questions to Gain Insight into Patient Needs and Optimize Pharmacy Services with Cal.com's Innovative Appointment System.",
-      "alt_text": "Descriptive Alt Text",
-      "author_image": "assets/img/332.png",
-      "url": "blog-post.html"
+      "date": "2024-29-10",
+      "image": "https://res.cloudinary.com/dguz1u19s/image/upload/v1725552940/Firefly_An_abstract_art_modern_light_grainy_effect_something_to_be_used_as_a_cover_img_for_descr_7_pcb12v.jpg",
+      "excerpt": "In today's digital landscape, a well-designed, user-centric website is not just an option—it's essential for business success. Custom web design enhances user engagement by creating an intuitive and visually appealing experience tailored to your target audience.",
+      "alt_text": "Custom-designed website with a modern and engaging layout tailored to user needs.",
+      "author_image": "https://res.cloudinary.com/dguz1u19s/image/upload/v1726734242/332_c3ioee.png",
+      "url": "#"
     },
     {
       "id": 2,
-      "title": "Another Blog Post",
-      "author": "Another Author",
-      "date": "2024-09-02",
-      "image": "assets/img/Fire-Fly/3.jpg",
-      "excerpt": "Another blog excerpt goes here.",
-      "alt_text": "Another Alt Text",
-      "author_image": "assets/img/another-author.png",
-      "url": "another-blog-post.html"
+      "title": "The Power of SEO in Scaling Your Business Online",
+      "author": "Ashraf",
+      "date": "2024-19-09",
+      "image": "https://res.cloudinary.com/dguz1u19s/image/upload/v1725552896/Firefly_An_abstract_art_modern_light_grainy_effect_something_to_be_used_as_a_cover_img_for_descr_4_nwqypu.jpg",
+      "excerpt": "Search engine optimization (SEO) is a cornerstone of online success, and its impact on business growth cannot be overstated. At Waystar Studio, our SEO strategies are designed to elevate your visibility and attract high-quality leads. ",
+      "alt_text": "Search engine results page highlighting high rankings achieved through effective SEO strategies.",
+      "author_image": "https://res.cloudinary.com/dguz1u19s/image/upload/v1726734242/332_c3ioee.png",
+      "url": "#"
     }
   ]
   
